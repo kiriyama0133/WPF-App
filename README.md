@@ -1,2 +1,2 @@
 # WPF-App
-A repo aim to develope my wpf skills
+A repo aim to develop my wpf skills
